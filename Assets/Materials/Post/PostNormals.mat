@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PostDepth
-  m_Shader: {fileID: 4800000, guid: e7a034997c52b844a987e3fb7efefd9f, type: 3}
+  m_Name: PostNormals
+  m_Shader: {fileID: 4800000, guid: da09b8ad9f4baef458ec1641d1195370, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -73,7 +73,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ScanDistance: 23.042833
+    - _ScanDistance: 11.999798
     - _ScanThickness: 10
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
